@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **phamthanhhang.208@gmail.com**
 
-- 📄 Know about my experiences: [https://bom.to/8nliGG](https://bom.to/8nliGG)
+- 📄 Know about my experiences: [My resume](https://bom.to/8nliGG)
 
 - ⚡ Fun fact: **I like coffee ☕️ , I like retro aesthetic 📺📼 and I like learning 📓💻**
 
