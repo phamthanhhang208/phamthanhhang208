@@ -1,10 +1,8 @@
-![banner](https://github.com/phamthanhhang208/phamthanhhang208/blob/main/Github_Banner.png)
+![banner](./assets/github_banner.png)
 
 <h3 align="center">Hey there 👋 ╰(*°▽°*)╯ </h3>
 
 <h3 align="center">I'm a Javascript enthusiastic, interested in Frontend and UI/UX 👩‍💻</h3>
-
-
 
 - 🎓 Currently a undergrad at Hanoi University of Science and Technology, major in Software Engineering
 
@@ -41,4 +39,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
