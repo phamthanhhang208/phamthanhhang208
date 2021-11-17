@@ -1,5 +1,9 @@
-<h1 align="center">Hey there 👋, I'm Hang ╰(*°▽°*)╯</h1>
+![banner](https://github.com/phamthanhhang208/phamthanhhang208/blob/main/Github_Banner.png)
+
+<h3 align="center">Hey there 👋 ╰(*°▽°*)╯ </h3>
+
 <h3 align="center">I'm a Javascript enthusiastic, interested in Frontend and UI/UX 👩‍💻</h3>
+
 
 
 - 🎓 Currently a undergrad at Hanoi University of Science and Technology, major in Software Engineering
@@ -12,7 +16,6 @@
 
 - ⚡ Fun fact: **I like coffee ☕️ , I like retro aesthetic 📺📼 and I like learning 📓💻**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -23,6 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamthanhhang208&show_icons=true&locale=en" alt="phamthanhhang208" /></p>
 
+- <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 <!--
 **phamthanhhang208/phamthanhhang208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
