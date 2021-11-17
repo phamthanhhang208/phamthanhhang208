@@ -1,4 +1,4 @@
-![banner](./assets/github_banner.png)
+![banner](./assets/Github_Banner.png)
 
 <h3 align="center">Hey there 👋 ╰(*°▽°*)╯ </h3>
 
