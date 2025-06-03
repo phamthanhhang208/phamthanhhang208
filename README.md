@@ -10,9 +10,9 @@
 
 - 📫 How to reach me: **phamthanhhang.208@gmail.com**
 
-- 📄 Know about my experiences: [My resume](https://bom.to/8nliGG)
+- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/17FWDjYBAjh_7LsNOhmwS0Zf-7p-bTsrX/view?usp=sharing)
 
-- ⚡ Fun fact: **I like coffee ☕️ , I like retro aesthetic 📺📼 and I like learning 📓💻**
+- ⚡ Fun fact: **I like caffeine ☕️ , I'm into mechanical keyboard 📺📼 and I like learning 📓💻**
 
 <p align="left">
 </p>
