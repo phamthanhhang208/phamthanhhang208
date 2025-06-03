@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **React JS, Typescript**
 
-- 📫 How to reach me: **phamthanhhang.208@gmail.com**
+- 📫 How to reach me: **phamthanhhang.208@gmail.com** | [My Portfolio](https://snippy-snbq.vercel.app/)
 
 - 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/17FWDjYBAjh_7LsNOhmwS0Zf-7p-bTsrX/view?usp=sharing)
 
