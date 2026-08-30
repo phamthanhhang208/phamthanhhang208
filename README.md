@@ -22,6 +22,16 @@ I’m a **Front-end Engineer** passionate about React, TypeScript, and UI/UX �
 
 ---
 
+### Hackathon Achievements
+
+| # | Project | Hackathon | Award | Description |
+|---|---------|-----------|-------|-------------|
+| 🥇 | [**StudyFlow**](https://devpost.com/software/studyflow-e8nxah) | DeveloperWeek 2026 | You.com API Prize Winner | AI-powered learning companion that creates structured learning paths with live web research, curated resources, and citation-backed answers |
+| 🥇 | [**ForgeOS**](https://devpost.com/software/forgeos-8x495z) | DigitalOcean Gradient AI Hackathon | The Great Whale Prize Winner | From raw idea to deployed SaaS in under 3 minutes — a multi-agent AI platform that automates market strategy, product planning, and deployment |
+| 🥇 | [**Quên**](https://devpost.com/software/quen) | Global AI Hackathon Series with Qwen Cloud | Winner Track 1: MemoryAgent | A Qwen-powered agent memory that knows what to forget, says how sure it is, and verifies before it asserts |
+
+---
+
 ### Tech Stack
 
 **Languages**
